@@ -4,7 +4,7 @@ PhonePe has become one of the most popular digital payment platforms in India, w
 
 This web app is built to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and transaction types and to give a Geo visualization output based on given requirements.
 
-#### Technologies stacked :
+#### Technologies used :
 
 1.Github Cloning
 
@@ -14,11 +14,7 @@ This web app is built to analyse the Phonepe transaction and users depending on 
 
 4.MySQL
 
-5.Mysql-connector-python
-
-6.Streamlit and Plotly
-
-7.Numpy
+5.Streamlit and Plotly
 
 #### Approach:
 
